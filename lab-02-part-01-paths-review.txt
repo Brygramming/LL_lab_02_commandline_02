@@ -13,19 +13,17 @@ Feel free to use your workstation to test your answers to the questions that don
 ==========
 1. Write the command that you would use to change to the root directory.
 ----------
-
-
+/
 
 ==========
 2. Write the command that you would use to change to your home directory.
 ----------
-
-
+~
 
 ==========
 3. Write the command that you would use to change to your Desktop folder.
 ----------
-
+First I put ls in the terminal to see the list of the directories I can currently go to; then I put cd desktop to change the directory to desktop.
 
 
 ==========
