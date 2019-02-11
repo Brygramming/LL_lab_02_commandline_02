@@ -36,15 +36,31 @@ $ echo good mornin'
 
 Copy and paste the output below.
 ----------
-
+V217-M08:mtec1002-lab-02 bryan.santiago59$ echo good mornin'
+> ndok
+> dfgod
+> dggd
+> g
+> g
+> d
+> g
+> shjj
+> sj
+> jdj
+> 
+> jhsggxsyrt
+> 
+> sh
+> tx
+> xxfn
+> 
 
 ==========
 4. Uh-oh... we're stuck!
 
 Type [CTRL + C] to get your prompt back.
 ----------
-
-
+I can finally type the commands.
 
 ==========
 5. Say good mornin' again with quotes!
